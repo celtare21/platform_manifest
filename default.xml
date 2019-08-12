@@ -262,7 +262,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" remote="aosp" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" remote="aosp" />
   <project path="external/spirv-llvm" name="platform/external/spirv-llvm" groups="pdk" remote="aosp" />
-  <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" remote="aosp" />
+  <project path="external/sqlite" name="BenzoRom/external_sqlite" revision="ninezero" remote="github" />
   <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" remote="aosp" />
   <project path="external/strace" name="platform/external/strace" groups="pdk" remote="aosp" />
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" remote="aosp" />
@@ -305,7 +305,7 @@
   <project path="external/xmlrpcpp" name="platform/external/xmlrpcpp" groups="pdk" remote="aosp" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" remote="aosp" />
   <project path="external/xz-embedded" name="platform/external/xz-embedded" groups="pdk" remote="aosp" />
-  <project path="external/zlib" name="platform/external/zlib" groups="pdk" remote="aosp" />
+  <project path="external/zlib" name="celtare21/external_zlib" revision="master"  remote="github" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
@@ -505,7 +505,7 @@
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" remote="aosp" />
   <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" remote="aosp" />
   <project path="system/libhidl" name="platform/system/libhidl" groups="pdk" remote="aosp" />
-  <project path="system/libhwbinder" name="platform/system/libhwbinder" groups="pdk" remote="aosp" />
+  <project path="system/libhwbinder" name="celtare21/system_libhwbinder" revision="master" remote="github" />
   <project path="system/libufdt" name="platform/system/libufdt" groups="pdk" remote="aosp" />
   <project path="system/libvintf" name="platform/system/libvintf" groups="pdk" remote="aosp" />
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" />
